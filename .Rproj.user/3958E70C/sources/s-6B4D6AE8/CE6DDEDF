@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530381308520.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CE6DDEDF",
+    "lastKnownWriteTime" : 1530381328,
+    "last_content_update" : 1530381328883,
+    "path" : "~/Documents/GitHub/twitter_dashboard/2018-06-30-my-twitter-dashboard.Rmd",
+    "project_path" : "2018-06-30-my-twitter-dashboard.Rmd",
+    "properties" : {
+        "cursorPosition" : "38,5",
+        "scrollLine" : "35"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
