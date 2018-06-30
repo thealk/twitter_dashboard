@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530374479435.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A86356EA",
+    "lastKnownWriteTime" : 1530378855,
+    "last_content_update" : 1530378855658,
+    "path" : "~/Documents/GitHub/twitter_dashboard/twitter_dashboard.R",
+    "project_path" : "twitter_dashboard.R",
+    "properties" : {
+        "cursorPosition" : "59,14",
+        "scrollLine" : "44",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
